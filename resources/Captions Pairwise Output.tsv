@@ -1,0 +1,25 @@
+﻿Add File	Add Another File	Commercial Break Detection	Add One Hour Timing Offset	Output File Format	Add Purchase Order	Add Reference Name	Add Rush	Add Foreign Language Subtitles	Login	Payment Information	Add Recipients on Payment Details	Add Recipients	Add Glossary	Add Accents	Add Speaker Names	Download Receipt	Go to My Files	Place Another Order
+Vimeo File Picker	Paste More URLs	No	Yes	MCC	Yes	Yes	Yes	Many (Random)	Sign In	Saved Card	false	Yes	Yes	No	No	No	Yes	Yes
+Upload with Enter File Length	Paste More URLs	Yes	No	SCC	No	No	No	One (Random)	Create Account	Different Card	true	No	No	Yes	Yes	Yes	No	No
+YouTube File Picker	Do Not Add More	No	No	SRT	No	Yes	No	None	Sign In	PayPal	false	No	No	No	No	Yes	No	Yes
+Upload	Upload More Files	No	No	SRT	Yes	No	Yes	None	Create Account	Saved Card	true	Yes	Yes	Yes	Yes	Yes	Yes	No
+Upload	Upload More Files	Yes	Yes	MCC	Yes	No	No	Many (Random)	Sign In	Prepaid	false	No	No	Yes	Yes	No	No	Yes
+Upload with Enter File Length	Do Not Add More	Yes	Yes	SCC	No	Yes	Yes	One (Random)	Create Account	PayPal	true	Yes	Yes	No	No	No	Yes	No
+Vimeo File Picker	Do Not Add More	Yes	No	MCC	No	Yes	No	Many (Random)	Create Account	Prepaid	true	Yes	Yes	No	Yes	Yes	No	No
+Paste URL	Upload More Files	No	No	SCC	Yes	Yes	Yes	One (Random)	Sign In	Prepaid	true	No	No	Yes	No	No	Yes	Yes
+Upload	Upload More Files	No	No	SRT	No	No	Yes	One (Random)	Create Account	PayPal	false	No	Yes	No	No	No	No	No
+Paste URL	Do Not Add More	No	No	SRT	Yes	No	No	Many (Random)	Sign In	PayPal	false	Yes	Yes	Yes	Yes	Yes	No	No
+YouTube File Picker	Paste More URLs	Yes	Yes	SCC	Yes	Yes	Yes	None	Create Account	Different Card	false	Yes	Yes	Yes	No	No	Yes	Yes
+Vimeo File Picker	Paste More URLs	Yes	Yes	MCC	Yes	No	No	None	Create Account	PayPal	false	Yes	No	Yes	No	Yes	Yes	No
+Vimeo File Picker	Upload More Files	No	No	SRT	No	No	Yes	One (Random)	Sign In	Different Card	true	No	No	No	No	Yes	No	No
+Paste URL	Paste More URLs	Yes	Yes	MCC	No	Yes	Yes	Many (Random)	Create Account	Different Card	true	Yes	No	No	No	No	Yes	No
+Upload with Enter File Length	Do Not Add More	Yes	Yes	SCC	No	Yes	No	Many (Random)	Sign In	Saved Card	false	No	No	Yes	Yes	Yes	No	Yes
+YouTube File Picker	Upload More Files	No	Yes	MCC	Yes	No	No	One (Random)	Sign In	Prepaid	true	No	No	No	Yes	Yes	No	No
+Upload with Enter File Length	Upload More Files	No	Yes	MCC	Yes	Yes	No	None	Create Account	Prepaid	false	Yes	Yes	Yes	No	Yes	No	Yes
+YouTube File Picker	Paste More URLs	No	No	SRT	No	No	No	One (Random)	Create Account	Saved Card	true	Yes	Yes	Yes	No	No	No	No
+Upload	Do Not Add More	No	No	SCC	Yes	Yes	No	None	Sign In	Different Card	false	Yes	No	No	No	No	No	No
+Paste URL	Paste More URLs	No	Yes	SCC	No	No	Yes	None	Sign In	Saved Card	false	No	Yes	Yes	Yes	Yes	Yes	Yes
+Vimeo File Picker	Paste More URLs	Yes	Yes	SCC	No	No	No	None	Create Account	Prepaid	true	Yes	No	Yes	Yes	Yes	No	No
+Upload	Paste More URLs	No	No	SRT	No	No	No	One (Random)	Create Account	Prepaid	true	No	Yes	Yes	Yes	Yes	No	No
+YouTube File Picker	Paste More URLs	Yes	Yes	SCC	Yes	No	No	Many (Random)	Sign In	Different Card	false	Yes	Yes	Yes	Yes	Yes	No	No
+Upload with Enter File Length	Paste More URLs	No	No	SRT	No	Yes	No	One (Random)	Create Account	Saved Card	false	No	Yes	No	No	Yes	Yes	No

@@ -1,0 +1,16 @@
+﻿Select File	Word Count Detected	Translate From	Translate To	Optional Information	Add Purchase Order	Add Reference Name	Login	Payment Information	Add Recipients on Payment Details	Download Receipt	Add Recipients on Order Confirmation	Go to My Files	Place Another Order
+Single File	No Multiple Pages	Random	Random	Single	false	false	Sign In	Different Card	true	false	false	false	false
+Multiple Files	No Multiple Pages	Random	Random	Many	true	true	Create Account	Saved Card	false	true	true	true	true
+Multiple Files	No One Page	Random	Random	Many	false	false	Create Account	Prepaid	false	false	true	false	false
+Single File	No One Page	Random	Random	None	true	true	Sign In	PayPal	true	true	false	true	true
+Single File	Yes	Random	Random	None	false	false	Create Account	Prepaid	true	true	true	true	false
+Multiple Files	No Multiple Pages	Random	Random	Single	true	true	Sign In	PayPal	false	false	true	false	false
+Multiple Files	Yes	Random	Random	Many	false	true	Create Account	Different Card	false	true	false	false	true
+Multiple Files	No One Page	Random	Random	None	true	false	Sign In	Saved Card	true	false	false	false	false
+Single File	Yes	Random	Random	Single	false	false	Sign In	Saved Card	false	false	false	true	true
+Single File	Yes	Random	Random	Many	true	true	Sign In	Prepaid	true	true	false	true	true
+Single File	Yes	Random	Random	Single	false	false	Create Account	PayPal	false	true	true	true	true
+Single File	Yes	Random	Random	Many	false	true	Create Account	PayPal	true	false	false	true	true
+Multiple Files	No Multiple Pages	Random	Random	None	true	true	Create Account	Different Card	false	true	true	true	false
+Single File	No One Page	Random	Random	Single	false	false	Sign In	Different Card	false	false	true	true	true
+Single File	No Multiple Pages	Random	Random	Single	false	false	Create Account	Prepaid	true	false	false	true	false

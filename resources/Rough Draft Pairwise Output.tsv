@@ -1,0 +1,14 @@
+﻿Add File	Add Another File	Add Purchase Order	Add Reference Name	Payment Information	Login	Add Recipients on Payment Details	Download Receipt	Add Recipients on Order Confirmation	Go to My Files	Place Another Order
+Upload with Enter File Length	Upload More Files	false	false	Prepaid	Create Account	true	true	false	false	false
+Upload	Paste More URLs	true	true	Prepaid	Sign In	false	false	true	true	true
+Upload with Enter File Length	Do Not Add More	false	true	Different Card	Create Account	true	false	true	false	true
+Paste URL	Upload More Files	true	false	Different Card	Sign In	false	false	false	true	false
+Upload	Do Not Add More	true	false	PayPal	Create Account	false	true	true	true	false
+Paste URL	Upload More Files	false	true	Saved Card	Sign In	false	true	false	false	true
+Upload with Enter File Length	Paste More URLs	true	false	Saved Card	Create Account	true	false	true	true	false
+Upload	Paste More URLs	false	true	Different Card	Sign In	true	true	false	false	false
+Upload with Enter File Length	Do Not Add More	true	false	Saved Card	Sign In	false	false	false	false	true
+Paste URL	Paste More URLs	false	true	PayPal	Create Account	true	false	true	false	true
+Upload with Enter File Length	Upload More Files	false	true	PayPal	Sign In	true	true	false	true	true
+Paste URL	Do Not Add More	false	true	Prepaid	Sign In	false	false	false	true	false
+Upload	Upload More Files	true	true	Saved Card	Sign In	true	true	true	true	true
